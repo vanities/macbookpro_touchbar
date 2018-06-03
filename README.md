@@ -8,6 +8,8 @@ Touchbar settings with BetterTouchTool for my macbook pro
 
 download BTT:
 https://folivora.ai/
+
+
 It's free for 45-days, then 20 bucks for a lifetime license, 8.50 for 2 years work of updates.
 
 
@@ -16,6 +18,7 @@ It's free for 45-days, then 20 bucks for a lifetime license, 8.50 for 2 years wo
 #### Downloading the Presets:
 Right click and save Presets:
 >Crypto.json , Crypto prices
+
 >touchbar.json , for weather and other cool things on the touchbar
 
 Or with git:

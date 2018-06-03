@@ -16,7 +16,7 @@ It's free for 45-days, then 20 bucks for a lifetime license, 8.50 for 2 years wo
 ## Installation:
 
 #### Downloading the Presets:
-Right click and save Presets:
+Click clone or download and save the zip file and get Presets:
 >Crypto.json , Crypto prices
 
 >touchbar.json , for weather and other cool things on the touchbar

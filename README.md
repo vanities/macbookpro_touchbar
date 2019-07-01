@@ -30,7 +30,7 @@ git clone https://github.com/vanities/macbookpro_touchbar/
 #### Importing the Presets with BTT:
 Open BTT and click Manage Presets,
 <img src="https://github.com/vanities/macbookpro_touchbar/blob/master/manage%20preset.png">
-Click on import and use the .json files that are above
+Click on import and navigate to the mackbookpro_touchbar folder and click on Crypto.bttpreset
 
 Click Ok
 <img src="https://github.com/vanities/macbookpro_touchbar/blob/master/whatever.png">
